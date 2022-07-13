@@ -31,6 +31,14 @@
         "De o frumusețe impresionantă rafinată, Mazda3 Sedan 2021 stârnește pasiuni încă de la prima vedere. Rafinamentul senzual al conturului caroseriei și interiorul cu finisaje splendide o plasează într-o clasă aparate – înainte de a descoperi cât de impresionantă este senzația din timpul condusului.",
       "price": "25000",
       "image": "mazda3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Mazda 3",
+      "description":
+        "De o frumusețe impresionantă rafinată, Mazda3 Sedan 2021 stârnește pasiuni încă de la prima vedere. Rafinamentul senzual al conturului caroseriei și interiorul cu finisaje splendide o plasează într-o clasă aparate – înainte de a descoperi cât de impresionantă este senzația din timpul condusului.",
+      "price": "25000",
+      "image": "mazda3.jpg"
     }
   ]
 }
